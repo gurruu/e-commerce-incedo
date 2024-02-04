@@ -7,7 +7,7 @@ function Home() {
             <NavBar>
                 <ProductList></ProductList>
             </NavBar>
-            hello
+            
         </div>
      );
 }
