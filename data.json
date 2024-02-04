@@ -2344,6 +2344,11 @@
       "email": "demo@gmail.com",
       "password": "Qwerty123",
       "id": 2
+    },
+    {
+      "id": "0024",
+      "email": "sambitsahoo365@gmail.com",
+      "password": "Sambit@1095"
     }
   ],
   "cart": [
